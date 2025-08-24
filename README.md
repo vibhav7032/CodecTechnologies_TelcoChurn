@@ -39,7 +39,7 @@ Churn refers to customers discontinuing their service, and predicting it helps t
 ## 🏢 Internship Details
 - **Organization**: Codec Technologies  
 - **Role**: Data Science Intern  
-- **Duration**: June 26, 2024 – August 25, 2024  
+- **Duration**: June 26, 2025 – August 25, 2025  
 - **Skills Applied**: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Machine Learning, Model Deployment
 
 ---
@@ -48,3 +48,4 @@ Churn refers to customers discontinuing their service, and predicting it helps t
 Feel free to reach out via **GitHub** for any feedback or questions.
 
 ---
+
